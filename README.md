@@ -10,7 +10,7 @@ A modern, single-page portfolio website for me. The site is built as a self-cont
 <table>
 <tr>
 <td align="center">
-<img src="./screenshots/preview1.png" width="400" height="220">
+<img src="./screenshots/preview4.png" width="400" height="220">
 </td>
 
 <td align="center">
@@ -24,7 +24,7 @@ A modern, single-page portfolio website for me. The site is built as a self-cont
 </td>
 
 <td align="center">
-<img src="./screenshots/preview4.png" width="400" height="220">
+<img src="./screenshots/preview1.png" width="400" height="220">
 </td>
 </tr>
 </table>
