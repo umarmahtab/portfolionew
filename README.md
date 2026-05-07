@@ -5,6 +5,9 @@ A modern, single-page portfolio website for me. The site is built as a self-cont
 ## Live
 - https://umarmahtab.vercel.app
 
+## Screenshot
+![Portfolio Preview](./screenshots/preview.png)
+
 ## Features
 
 - Responsive single-page layout
