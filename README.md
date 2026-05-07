@@ -9,13 +9,23 @@ A modern, single-page portfolio website for me. The site is built as a self-cont
 
 <table>
 <tr>
-<td><img src="./screenshots/preview1.png" width="100%"></td>
-<td><img src="./screenshots/preview2.png" width="100%"></td>
+<td align="center">
+<img src="./screenshots/preview1.png" width="400" height="220">
+</td>
+
+<td align="center">
+<img src="./screenshots/preview2.png" width="400" height="220">
+</td>
 </tr>
 
 <tr>
-<td><img src="./screenshots/preview3.png" width="100%"></td>
-<td><img src="./screenshots/preview4.png" width="100%"></td>
+<td align="center">
+<img src="./screenshots/preview3.png" width="400" height="220">
+</td>
+
+<td align="center">
+<img src="./screenshots/preview4.png" width="400" height="220">
+</td>
 </tr>
 </table>
 
