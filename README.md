@@ -5,8 +5,19 @@ A modern, single-page portfolio website for me. The site is built as a self-cont
 ## Live
 - https://umarmahtab.vercel.app
 
-## Screenshot
-![Portfolio Preview](./screenshots/preview.png)
+## Preview
+
+<table>
+<tr>
+<td><img src="./screenshots/preview1.png" width="100%"></td>
+<td><img src="./screenshots/preview2.png" width="100%"></td>
+</tr>
+
+<tr>
+<td><img src="./screenshots/preview3.png" width="100%"></td>
+<td><img src="./screenshots/preview4.png" width="100%"></td>
+</tr>
+</table>
 
 ## Features
 
@@ -31,7 +42,6 @@ A modern, single-page portfolio website for me. The site is built as a self-cont
 This is a static HTML project, so you can open `Portfoliov4.html` directly in any browser.
 
 For a smoother editing experience, open the folder in VS Code and launch the page with Live Server or another local preview tool.
-
 
 ## Tech Stack
 
